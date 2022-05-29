@@ -1,0 +1,24 @@
+{
+  "name": "spell-express-mongoose",
+  "version": "1.0.0",
+  "description": "Spells for creating basic CRUD API for MongoDB entities inside of an express application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogwizzle/spell-express-mongoose.git"
+  },
+  "author": "cogwizzle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cogwizzle/spell-express-mongoose/issues"
+  },
+  "homepage": "https://github.com/cogwizzle/spell-express-mongoose#readme",
+  "dependencies": {
+    "pascal-case": "^3.1.2",
+    "spell-express": "github:cogwizzle/spell-express",
+    "spell-mongoose": "github:cogwizzle/spell-mongoose"
+  }
+}
